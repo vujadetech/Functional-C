@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
+// enum example:
 typedef enum { toupee, bald, mohawk, johnnyUnidas } tonsoral;
 typedef double (*int_to_double_fn)( int );
 typedef void   (*int_to_void_fn)  ( int );
